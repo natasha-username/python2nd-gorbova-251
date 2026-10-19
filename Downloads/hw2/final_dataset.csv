@@ -1,0 +1,507 @@
+Name,Occupation,Degree,Field,Institution,grad_year,Country,ranking_global,GPA,Scholarship/Award,Top_University,Academic_Performance
+Elon Musk,Entrepreneur,Bachelor of Science,Physics & Economics,University of Pennsylvania,1997,USA,13.0,3.7,Dean’s List,True,High
+Bill Gates,Entrepreneur,Dropped Out,computer science,Harvard University,1975,USA,5.0,,Dean’s List,True,
+Sundar Pichai,Tech Executive,Master of Science,Material Sciences and Engineering,Stanford University,1995,USA,3.0,3.8,Fellowship in Engineering,True,High
+Sheryl Sandberg,Tech Executive,Master of Business Administration,Business Administration,Harvard Business School,1995,USA,2.0,3.9,Hoover Fellowship,True,High
+Jeff Bezos,Entrepreneur,Bachelor of Science,Computer Science and Electrical Engineering,Princeton University,1986,USA,16.0,3.6,Marquis Scholar,True,High
+Indra Nooyi,Business Leader,Master of Business Administration,Management,Yale School of Management,1980,USA,11.0,3.7,Scholarship Winner,True,High
+Oprah Winfrey,Media Executive,Honorary Doctorate,speech communications and performing arts,Tennessee State University,1987,USA,,,Honorary Award,False,
+Satya Nadella,Tech Executive,Master of Science,Computer Science,University of Wisconsin–Milwaukee,1990,USA,,3.5,Academic Excellence Award,False,High
+Malala Yousafzai,Activist,Undergraduate Studies,Philosophy,University of Oxford,2021,UK,4.0,,Nobel Peace Prize,True,
+Mark Zuckerberg,Entrepreneur,Dropped Out,computer science and psychology,Harvard University,,USA,5.0,,,True,
+Marie Curie,Scientist,Doctor of Philosophy,Physics,University of Paris,1903,France,35.0,,Nobel Fellowship,True,
+Barack Obama,Politician,Juris Doctor,Law,Harvard Law School,1991,USA,2.0,3.1,Harvard Law Review Editor,True,Medium
+Tim Cook,Tech Executive,Master of Business Administration,Business Administration,Fuqua School of Business (Duke University),1988,USA,26.0,3.8,Fuqua Scholar,True,High
+Serena Williams,Athlete,Bachelor of Science,Business Administration,University of California,2021,USA,40.0,3.6,Student-Athlete Academic Award,True,High
+Sergey Brin,Entrepreneur,Master of Science,Computer Science,Stanford University,1995,USA,3.0,3.9,National Science Foundation Fellowship,True,High
+Larry Page,Entrepreneur,Master of Science,Computer Engineering,Stanford University,1995,USA,3.0,3.9,NSF Graduate Fellowship,True,High
+Angela Merkel,Politician,Doctor of Philosophy,Physical Chemistry,University of Leipzig,1986,Germany,,,DAAD Scholarship,False,
+Malcolm Gladwell,Author,Master of Arts,Sociology,University of Toronto,1987,Canada,26.0,3.7,Trudeau Foundation Scholar,True,High
+Emma Watson,Actor,Bachelor of Arts,English Literature,Brown University,2014,USA,14.0,3.5,Rhodes Scholar Finalist,True,High
+Leonardo DiCaprio,Actor,High School,General,Los Angeles Center for Enriched Studies,1992,USA,,,Academy Award Winner,False,
+Michelle Obama,Lawyer/Author,Juris Doctor,Law,Harvard Law School,1988,USA,2.0,3.7,Magna Cum Laude,True,High
+Stephen Hawking,Physicist,PhD,Physics,Cambridge University,1966,UK,3.0,,Nobel Prize Physics,True,
+J.K. Rowling,Author,Bachelor,French/Classics,University of Exeter,1986,UK,161.0,,Honorary Degree,False,
+Kamala Harris,Politician,Juris Doctor,Law,UC Hastings,1989,USA,62.0,,Alpha Kappa Alpha,False,
+Jack Ma,Tech CEO,Bachelor,English,Hangzhou Normal University,1988,China,,3.6,Honorary PhD,False,High
+Marissa Mayer,Tech Executive,Master,Computer Science,Stanford University,1999,USA,4.0,3.9,National Merit Scholar,True,High
+Neil deGrasse Tyson,Astrophysicist,PhD,Astrophysics,Columbia University,1991,USA,7.0,3.9,NASA Fellowship,True,High
+Melinda Gates,Philanthropist,MBA,Business,Duke University,1987,USA,23.0,3.8,Fuqua Scholar,True,High
+Richard Branson,Business Executive,High School,,Stowe School,1968,UK,,,Honorary Degree,False,
+Susan Wojcicki,Tech CEO,Master,Economics,UC Santa Cruz,1993,USA,58.0,3.9,Phi Beta Kappa,False,High
+Yo-Yo Ma,Musician,Bachelor,Liberal Arts,Harvard University,1976,USA,3.0,3.8,Presidential Medal of Freedom,True,High
+Reed Hastings,Tech CEO,Master,Computer Science,Stanford University,1988,USA,4.0,3.7,Fulbright Scholar,True,High
+MacKenzie Scott,Author/Philanthropist,Bachelor,English,Princeton University,1992,USA,6.0,3.9,Toni Morrison Thesis Prize,True,High
+Jensen Huang,Tech CEO,Master,Electrical Engineering,Stanford University,1992,USA,4.0,3.8,Outstanding Graduate,True,High
+Ursula von der Leyen,Politician,PhD,Medicine,Hannover Medical School,1991,Germany,122.0,,Research Excellence Award,False,
+Bob Iger,Media Executive,Bachelor,Television & Radio,Ithaca College,1973,USA,,3.6,Honorary Degree,False,High
+Reshma Saujani,Nonprofit Executive,Juris Doctor,Law,Yale Law School,2002,USA,1.0,3.8,Paul & Daisy Soros Fellow,True,High
+Sal Khan,Education Executive,Master/MBA,Engineering/Business,MIT/Harvard,2003,USA,1.0,4.0,Presidential Scholar,True,High
+Padma Lakshmi,TV Host/Author,Bachelor,Theatre Arts,Clark University,1992,USA,,3.7,Fulbright Scholarship,False,High
+Hamdi Ulukaya,Business Executive,MBA,Business,SUNY Albany,1997,USA,,3.6,Ernst & Young Award,False,High
+Mary Barra,Business Executive,MBA,Business,Stanford University,1990,USA,4.0,3.9,GM Fellowship,True,High
+Ken Jeong,Actor/Comedian,MD,Medicine,UNC Chapel Hill,1995,USA,28.0,3.9,Internal Medicine Award,True,High
+Andrea Jung,Business Executive,Bachelor,English Literature,Princeton University,1979,USA,6.0,,Princeton Scholar,True,
+John Legend,Musician,Bachelor,English,University of Pennsylvania,1999,USA,8.0,3.9,University Scholar,True,High
+Anne Wojcicki,Tech CEO,Bachelor,Biology,Yale University,1996,USA,3.0,3.8,Research Excellence Award,True,High
+Fareed Zakaria,Journalist,PhD,Political Science,Harvard University,1993,USA,3.0,,Phi Beta Kappa,True,
+Mindy Kaling,Actor/Writer,Bachelor,Playwriting,Dartmouth College,2001,USA,12.0,3.7,Eleanor Frost Prize,True,High
+Kumail Nanjiani,Actor/Comedian,Bachelor,Computer Science/Philosophy,Grinnell College,2001,USA,,3.6,Comedy Award,False,High
+Ava DuVernay,Film Director,Bachelor,English/African American Studies,UCLA,1995,USA,15.0,3.7,Directors Guild Award,True,High
+Tan France,TV Host/Designer,Bachelor,Fashion Management,Doncaster College,2000,UK,,,Fashion Excellence Award,False,
+Chimamanda Adichie,Author,Master,Creative Writing,Johns Hopkins University,2003,USA,10.0,3.9,MacArthur Fellowship,True,High
+Reshma Shetty,Actor/Singer,Master,Music,University of Kentucky,2003,USA,,3.8,Opera Excellence Award,False,High
+Dax Shepard,Actor/Podcaster,Bachelor,Anthropology,UCLA,1997,USA,15.0,3.6,Comedy Award,True,High
+Mayim Bialik,Actor/Scientist,PhD,Neuroscience,UCLA,2007,USA,15.0,4.0,Neuroscience Fellow,True,High
+Andy Samberg,Comedian/Actor,Bachelor,Experimental Film,NYU Tisch,2000,USA,27.0,3.7,Comedy Award,True,High
+Natalie Portman,Actor,Bachelor,Psychology,Harvard University,2003,USA,3.0,3.9,Research Award,True,High
+Warren Buffett,Investor,Master,Economics,Columbia University,1951,USA,7.0,3.9,,True,High
+Larry Ellison,Entrepreneur,Dropout,Computer Science,University of Chicago,,USA,10.0,,,True,
+Michael Dell,Entrepreneur,Dropout,Biology,University of Texas,,USA,43.0,,,True,
+Steve Ballmer,Entrepreneur,Bachelor,Mathematics,Harvard University,1977,USA,3.0,3.8,Academic Excellence,True,High
+Phil Knight,Entrepreneur,MBA,Business,Stanford University,1962,USA,2.0,3.7,,True,High
+Michael Bloomberg,Entrepreneur,MBA,Business,Harvard University,1966,USA,3.0,3.8,Merit Award,True,High
+Charles Koch,Entrepreneur,Master,Engineering,MIT,1963,USA,1.0,3.9,Research Grant,True,High
+David Koch,Entrepreneur,Master,Engineering,MIT,1963,USA,1.0,3.9,Research Grant,True,High
+Jim Walton,Business,Bachelor,Business Administration,University of Arkansas,1971,USA,597.0,3.5,,False,High
+Mukesh Ambani,Entrepreneur,MBA,Business,Stanford University,1980,USA,2.0,3.8,Merit Scholarship,True,High
+Bernard Arnault,Entrepreneur,Engineering,Engineering,École Polytechnique,1971,France,60.0,3.9,Academic Excellence,False,High
+Carlos Slim,Entrepreneur,Bachelor,Engineering,UNAM,1961,Mexico,122.0,3.8,Academic Merit,False,High
+Francoise Meyers,Business,Bachelor,Business,University of Paris,1975,France,65.0,3.7,,False,High
+Larry Fink,Finance,MBA,Business,UCLA,1976,USA,15.0,3.9,Academic Excellence,True,High
+Stephen Schwarzman,Finance,MBA,Business,Harvard University,1972,USA,3.0,3.9,Merit Award,True,High
+Jim Simons,Finance,PhD,Mathematics,UC Berkeley,1962,USA,4.0,4.0,Research Fellowship,True,High
+Len Blavatnik,Entrepreneur,Master,Computer Science,Columbia University,1981,USA,7.0,3.9,Merit Scholarship,True,High
+Jacqueline Mars,Business,Bachelor,Anthropology,Bryn Mawr College,1961,USA,27.0,3.7,,True,High
+Shiv Nadar,Entrepreneur,Engineering,Electrical Engineering,PSG College of Technology,1967,India,,3.8,Merit Scholarship,False,High
+Klaus Schwab,Business,PhD,Economics,University of Fribourg,1967,Switzerland,,4.0,Research Grant,False,High
+Masayoshi Son,Entrepreneur,Bachelor,Economics,UC Berkeley,1980,USA,4.0,3.8,Merit Scholarship,True,High
+Zhang Yiming,Entrepreneur,Bachelor,Software Engineering,Nankai University,2005,China,,3.9,Academic Excellence,False,High
+Robin Li,Entrepreneur,Master,Computer Science,SUNY Buffalo,1994,USA,89.0,4.0,Research Grant,False,High
+Lei Jun,Entrepreneur,Bachelor,Computer Science,Wuhan University,1991,China,,3.8,Merit Award,False,High
+Richard Liu,Entrepreneur,Bachelor,Sociology,Renmin University,1996,China,,3.7,,False,High
+Pony Ma,Entrepreneur,Bachelor,Computer Science,Shenzhen University,1993,China,,3.8,Merit Award,False,High
+Colin Huang,Entrepreneur,Master,Computer Science,University of Wisconsin,2004,USA,28.0,4.0,Research Fellowship,True,High
+William Ding,Entrepreneur,Bachelor,Computer Science,University of Electronic Science,1993,China,,3.9,Academic Excellence,False,High
+Wang Xing,Entrepreneur,Master,Computer Science,University of Delaware,2005,USA,137.0,3.9,Merit Scholarship,False,High
+Tadashi Yanai,Fashion,Bachelor,Economics,Waseda University,1971,Japan,,3.6,,False,High
+Takemitsu Takizaki,Entrepreneur,Bachelor,Engineering,Osaka Institute of Technology,1965,Japan,,3.7,Merit Award,False,High
+Qin Yinglin,Business,Master,Animal Science,China Agricultural University,1995,China,,3.8,Research Grant,False,High
+Lu Xiangyang,Entrepreneur,Bachelor,Engineering,South China University,1983,China,,3.7,,False,High
+Zhang Jindong,Business,Bachelor,Management,Nanjing University,1995,China,,3.6,,False,High
+Zhou Yahui,Entrepreneur,Bachelor,mechanical engineering,Tsinghua University,1999,China,,3.7,,False,High
+Carlos Slim Helu,Business,Bachelor,Engineering,Universidad Nacional Autonoma de Mexico,1961,Mexico,122.0,3.8,,False,High
+Alice Walton,Business,Bachelor,Economics,Trinity College,1971,USA,3.0,3.7,,True,High
+Francoise Bettencourt Meyers,Business,Bachelor,Philosophy,University of Paris,1975,France,35.0,3.8,,True,High
+Zhong Shanshan,Business,Bachelor,Medicine,Hangzhou Normal University,1982,China,,3.6,,False,High
+Mark Mateschitz,Business,Bachelor,Economics,Fachhochschule Salzburg,2018,Austria,,3.8,,False,High
+Ken Griffin,Finance,Bachelor,Economics,Harvard University,1989,USA,3.0,3.8,,True,High
+Eduardo Saverin,Entrepreneur,Bachelor,Economics,Harvard University,2006,USA,3.0,3.7,,True,High
+Vagit Alekperov,Business,Bachelor,Engineering,Azarbayjan State Oil Academy,1975,Azerbaijan,,3.6,,False,High
+Stefan Quandt,Business,Bachelor,Engineering,Technical University of Darmstadt,1994,Germany,,3.7,,False,High
+Susanne Klatten,Business,Bachelor,Economics,Technical University of Munich,1993,Germany,,3.8,,False,High
+Cyrus Poonawalla,Business,Bachelor,Pharmacy,University of Pune,1966,India,,3.7,,False,High
+Eyal Ofer,Business,Bachelor,Maritime Law,University of London,1970,Israel,,,N/A	,False,
+Changpeng Zhao,Entrepreneur,Bachelor,Software Engineer,McGill University,1997,China,30.0,,N/A	,True,
+Jeff Yass,Entrepreneur,Bachelor,Mathematics & Economics,Binghamton University,1979,USA,1200.0,,,False,
+Ma Huateng,Business,Bachelor,Computer Science,Shenzhen University,1993,China,801.0,,,False,
+Melinda French Gates,Philanthropist,MBA and BA,Computer Science and Economics,Duke University,1986, USA,,,Duke University Distinguished Alumna Award,False,
+Vladimir Potanin,Business,Specialist Degree,International Economic Relations,Moscow State Institute of International Relations (MGIMO),1983,Russia,366.0,,French Legion of Honour,False,
+Henry Samueli,Engineer and Businessman,Ph.D.,Electrical Engineering,University of California,1980,USA,46.0,,National Medal of Technology and Innovation (2011),True,
+Eric Schmidt,Businessman and Software Engineer,Ph.D.,Electrical Engineering and Computer Science,University of California,1982,USA,10.0,,National Academy of Engineering Member/ Marconi Prize (2012),True,
+Daniel Gilbert,Psychologist,Ph.D.,Psychology,Yale University,1984,USA,14.0,,American Psychological Association Distinguished Scientific Contributions Award,True,
+Aliko Dangote,Business,Bachelor's Degree,Business Administration,Al-Azhar University,1977,Nigeria,,,,False,
+Idan Ofer,Business,Bachelor's Degree,Economics and Management,London School of Economics,1987,United Kingdom,49.0,,,True,
+Albert Einstein,Theoretical Physicist,Doctor of Philosophy,Physics,University of Zurich,1905,Switzerland,58.0,,Nobel Prize in Physics 1921,False,
+Richard Feynman,Physicist,Doctor of Philosophy,Physics,Princeton University,1942,USA,16.0,,Nobel Prize in Physics 1965,True,
+James Watson,Molecular Biologist,Doctor of Philosophy,Zoology,Indiana University,1950,USA,,,Nobel Prize in Physiology 1962,False,
+Francis Crick,Molecular Biologist,Doctor of Philosophy,Physics,University College London,1954,UK,9.0,,Nobel Prize in Physiology 1962,True,
+Rosalind Franklin,Chemist,Doctor of Philosophy,Physical Chemistry,University of Cambridge,1945,UK,4.0,,Research Fellow,True,
+Linus Pauling,Chemist,Doctor of Philosophy,Chemistry,California Institute of Technology,1925,USA,7.0,,Nobel Prize in Chemistry 1954,True,
+Dorothy Hodgkin,Chemist,Doctor of Philosophy,Chemistry,University of Cambridge,1937,UK,4.0,,Nobel Prize in Chemistry 1964,True,
+Barbara McClintock,Geneticist,Doctor of Philosophy,Botany,Cornell University,1927,USA,21.0,,Nobel Prize in Physiology 1983,True,
+Carl Sagan,Astronomer,Doctor of Philosophy,Astronomy and Astrophysics,University of Chicago,1960,USA,10.0,,Pulitzer Prize,True,
+Jane Goodall,Primatologist,Doctor of Philosophy,Ethology,University of Cambridge,1965,UK,4.0,,UN Messenger of Peace,True,
+Steve Jobs,Entrepreneur,Dropped Out,Liberal Arts,Reed College,1972,USA,,,National Medal of Technology,False,
+Jack Dorsey,Tech Entrepreneur,Dropped Out,Computer Science,New York University,1997,USA,38.0,,Innovator Under 35,True,
+Jan Koum,Tech Entrepreneur,Dropped Out,Computer Science,San Jose State University,1997,USA,,,Technology Pioneer,False,
+Travis Kalanick,Entrepreneur,Dropped Out,Computer Engineering,University of California Los Angeles,1998,USA,14.0,,Time 100,True,
+Brian Chesky,Tech Entrepreneur,Bachelor of Fine Arts,Industrial Design,Rhode Island School of Design,2004,USA,,3.6,Presidential Ambassador,False,High
+Drew Houston,Tech Entrepreneur,Bachelor of Science,Computer Science,Massachusetts Institute of Technology,2005,USA,1.0,,Forbes 30 Under 30,True,
+Evan Spiegel,Tech Entrepreneur,Bachelor of Science,Product Design,Stanford University,2012,USA,3.0,,Youngest Billionaire,True,
+Whitney Wolfe Herd,Tech Entrepreneur,Bachelor of Arts,International Studies,Southern Methodist University,2011,USA,,3.5,Forbes 30 Under 30,False,High
+Howard Schultz,Business Leader,Bachelor of Science,Communications,Northern Michigan University,1975,USA,,,Business Leader Award,False,
+Ginni Rometty,Tech Executive,Bachelor of Science,Computer Science,Northwestern University,1979,USA,27.0,3.7,General Motors Scholarship,True,High
+Doug McMillon,Business Executive,Master of Business Administration,Business Administration,University of Tulsa,1991,USA,,3.6,Dean's List,False,High
+Brian Moynihan,Banking Executive,Juris Doctor,Law,University of Notre Dame,1984,USA,227.0,,Law Review Editor,False,
+Jamie Dimon,Banking Executive,Master of Business Administration,Business Administration,Harvard Business School,1982,USA,2.0,,Baker Scholar,True,
+Lloyd Blankfein,Banking Executive,Bachelor of Arts,History,Harvard University,1975,USA,5.0,,Cum Laude,True,
+Ruth Porat,Business Executive,Master of Business Administration,Finance,Wharton School,1987,USA,13.0,3.9,Palmer Scholar,True,High
+Rosalind Brewer,Business Executive,Bachelor of Science,Chemistry,Spelman College,1984,USA,,3.5,Dean's Award,False,High
+John F Kennedy,Politician,Bachelor of Arts,Government,Harvard University,1940,USA,5.0,,Cum Laude,True,
+Bill Clinton,Politician,Bachelor of Science,Foreign Service,Georgetown University,1968,USA,231.0,,Rhodes Scholar,False,
+Hillary Clinton,Politician,Juris Doctor,Law,Yale Law School,1973,USA,11.0,,Yale Review Editor,True,
+George W Bush,Politician,Master of Business Administration,Business Administration,Harvard Business School,1975,USA,2.0,,Alumni,True,
+Ronald Reagan,Politician,Bachelor of Arts,Economics and Sociology,Eureka College,1932,USA,,,Athletic Scholarship,False,
+Jimmy Carter,Politician,Bachelor of Science,Nuclear Physics,United States Naval Academy,1946,USA,,3.9,Nobel Peace Prize 2002,False,High
+Margaret Thatcher,Politician,Bachelor of Science,Chemistry,University of Oxford,1947,UK,4.0,,Prime Minister,True,
+Tony Blair,Politician,Bachelor of Arts,Law,University of Oxford,1975,UK,4.0,,Prime Minister,True,
+Emmanuel Macron,Politician,Master's Degree,Public Affairs,Sciences Po Paris,2001,France,,,ENA Graduate,False,
+Justin Trudeau,Politician,Bachelor of Arts,Literature,McGill University,1994,Canada,31.0,,Prime Minister,True,
+Neil Armstrong,Astronaut,Bachelor of Science,Aeronautical Engineering,Purdue University,1955,USA,99.0,,Holloway Scholarship,False,
+Sally Ride,Astronaut,Doctor of Philosophy,Physics,Stanford University,1978,USA,3.0,,First American Woman in Space,True,
+Mae Jemison,Astronaut,Doctor of Medicine,Medicine,Cornell University,1981,USA,21.0,3.8,First African American Woman in Space,True,High
+Buzz Aldrin,Astronaut,Doctor of Philosophy,Astronautics,Massachusetts Institute of Technology,1963,USA,1.0,,Presidential Medal of Freedom,True,
+Stephen Jay Gould,Paleontologist,Doctor of Philosophy,Paleontology,Columbia University,1967,USA,19.0,,MacArthur Fellow,True,
+Rachel Carson,Marine Biologist,Master of Arts,Marine Biology,Johns Hopkins University,1932,USA,28.0,,Environmental Pioneer,True,
+Jonas Salk,Virologist,Doctor of Medicine,Medicine,New York University,1939,USA,38.0,,Congressional Gold Medal,True,
+Craig Venter,Geneticist,Doctor of Philosophy,Physiology,University of California San Diego,1975,USA,18.0,,National Medal of Science,True,
+Jennifer Doudna,Biochemist,Doctor of Philosophy,Biological Chemistry,Harvard University,1989,USA,5.0,,Nobel Prize in Chemistry 2020,True,
+Emmanuelle Charpentier,Microbiologist,Doctor of Philosophy,Microbiology,Pasteur Institute,1995,France,,,Nobel Prize in Chemistry 2020,False,
+Michael Jordan,Athlete,Bachelor of Arts,Cultural Geography,University of North Carolina,1986,USA,29.0,,Athletic Scholarship,True,
+LeBron James,Athlete,High School Graduate,,St Vincent St Mary High School,2003,USA,,,4x NBA Champion,False,
+Kobe Bryant,Athlete,High School Graduate,,Lower Merion High School,1996,USA,,,5x NBA Champion,False,
+Tom Brady,Athlete,Bachelor of Arts,General Studies,University of Michigan,1999,USA,24.0,3.3,7x Super Bowl Champion,True,Medium
+Peyton Manning,Athlete,Bachelor of Arts,Speech Communication,University of Tennessee,1997,USA,146.0,3.6,2x Super Bowl Champion,False,High
+Tiger Woods,Athlete,Dropped Out,Economics,Stanford University,1996,USA,3.0,,15x Major Champion,True,
+Simone Biles,Athlete,Pursuing,Business Administration,University of the People,2025,USA,,,7x Olympic Gold Medalist,False,
+Megan Rapinoe,Athlete,Attended,,University of Portland,2008,USA,,,2x World Cup Champion,False,
+F Scott Fitzgerald,Author,Dropped Out,Literature,Princeton University,1917,USA,16.0,,Great American Novelist,True,
+Toni Morrison,Author,Master of Arts,English,Cornell University,1955,USA,21.0,,Nobel Prize in Literature 1993,True,
+Maya Angelou,Author,Did Not Complete,,Various High Schools,1945,USA,,,Presidential Medal of Freedom,False,
+Stephen King,Author,Bachelor of Arts,English,University of Maine,1970,USA,,,National Medal of Arts,False,
+John Grisham,Author,Juris Doctor,Law,University of Mississippi,1981,USA,,,Bestselling Author,False,
+Dan Brown,Author,Bachelor of Arts,English,Amherst College,1986,USA,,,Bestselling Author,False,
+Margaret Atwood,Author,Master of Arts,English Literature,Radcliffe College,1962,USA,,,Booker Prize,False,
+Haruki Murakami,Author,Bachelor of Arts,Drama,Waseda University,1975,Japan,199.0,,Franz Kafka Prize,False,
+Chimamanda Ngozi Adichie,Author,Master of Arts,African Studies,Yale University,2008,USA,11.0,,MacArthur Fellow,True,
+Pablo Picasso,Artist,Art School,Fine Arts,Royal Academy of San Fernando,1897,Spain,,,Revolutionary Artist,False,
+Andy Warhol,Artist,Bachelor of Fine Arts,Pictorial Design,Carnegie Institute of Technology,1949,USA,,,Pop Art Pioneer,False,
+Frida Kahlo,Artist,Medical Studies Incomplete,Medicine,National Preparatory School,1925,Mexico,,,Iconic Artist,False,
+Georgia O'Keeffe,Artist,Art Studies,Fine Arts,Art Institute of Chicago,1908,USA,,,Modernist Pioneer,False,
+Ludwig van Beethoven,Composer,Court Musician Training,Music,Court of Bonn,1792,Germany,,,Classical Master,False,
+Wolfgang Amadeus Mozart,Composer,Private Tutoring,Music,Home Education,,Austria,,,Musical Prodigy,False,
+Lady Gaga,Musician,Attended,Music,New York University Tisch School,2005,USA,38.0,,Grammy Winner,True,
+Taylor Swift,Musician,Honorary Doctorate,Fine Arts,New York University,2022,USA,38.0,,Grammy Winner,True,
+Beyoncé,Musician,High School Graduate,,Alief Elsik High School,2000,USA,,,32x Grammy Winner,False,
+Reid Hoffman,Tech Entrepreneur,Master of Arts,Philosophy,University of Oxford,1993,UK,4.0,,Rhodes Scholar,True,
+Peter Thiel,Tech Entrepreneur,Juris Doctor,Law,Stanford Law School,1992,USA,3.0,,PayPal Mafia,True,
+Patrick Collison,Tech Entrepreneur,Dropped Out,Physics,Massachusetts Institute of Technology,2009,USA,1.0,,Thiel Fellow,True,
+John Collison,Tech Entrepreneur,Dropped Out,Computer Science,Harvard University,2011,USA,5.0,,Youngest Self-Made Billionaire,True,
+Kevin Systrom,Tech Entrepreneur,Bachelor of Science,Management Science and Engineering,Stanford University,2006,USA,3.0,,Instagram Founder,True,
+Mike Krieger,Tech Entrepreneur,Master of Science,Symbolic Systems,Stanford University,2008,USA,3.0,,Instagram Co-founder,True,
+Daniel Ek,Tech Entrepreneur,Dropped Out,Engineering,Royal Institute of Technology,2006,Sweden,98.0,,Spotify Founder,False,
+Ada Lovelace,Mathematician,Private Tutoring,Mathematics,Home Education,,UK,,,First Computer Programmer,False,
+Alan Turing,Mathematician,Doctor of Philosophy,Mathematics,Princeton University,1938,USA,16.0,,Turing Award Namesake,True,
+Grace Hopper,Computer Scientist,Doctor of Philosophy,Mathematics,Yale University,1934,USA,11.0,,Presidential Medal of Freedom,True,
+Katherine Johnson,Mathematician,Bachelor of Science,Mathematics and French,West Virginia State College,1937,USA,,,Presidential Medal of Freedom,False,
+John Nash,Mathematician,Doctor of Philosophy,Mathematics,Princeton University,1950,USA,16.0,,Nobel Prize in Economics 1994,True,
+Andrew Wiles,Mathematician,Doctor of Philosophy,Mathematics,University of Cambridge,1980,UK,4.0,,Abel Prize,True,
+Terence Tao,Mathematician,Doctor of Philosophy,Mathematics,Princeton University,1996,USA,16.0,,Fields Medal,True,
+Maryam Mirzakhani,Mathematician,Doctor of Philosophy,Mathematics,Harvard University,2004,USA,5.0,,Fields Medal 2014,True,
+Freeman Dyson,Physicist,Bachelor of Arts,Mathematics,University of Cambridge,1945,UK,4.0,,Templeton Prize,True,
+Murray Gell-Mann,Physicist,Doctor of Philosophy,Physics,Massachusetts Institute of Technology,1951,USA,1.0,,Nobel Prize in Physics 1969,True,
+Sheryl Palmer,Business Executive,Bachelor of Science,Business Administration,Texas Christian University,1983,USA,,3.5,Fortune Most Powerful Women,False,High
+Safra Catz,Tech Executive,Juris Doctor,Law,University of Pennsylvania,1986,USA,13.0,,Highest Paid Female CEO,True,
+Marc Benioff,Tech Entrepreneur,Bachelor of Science,Business Administration,University of Southern California,1986,USA,28.0,3.6,Salesforce Founder,True,High
+Ray Dalio,Investor,Master of Business Administration,Finance,Harvard Business School,1973,USA,2.0,,Bridgewater Founder,True,
+Carl Icahn,Investor,Bachelor of Arts,Philosophy,Princeton University,1957,USA,16.0,,Activist Investor,True,
+George Soros,Investor,Doctor of Philosophy,Philosophy,London School of Economics,1954,UK,45.0,,Philanthropist,True,
+Steven Spielberg,Film Director,Bachelor of Arts,Film Production,California State University Long Beach,2002,USA,,,3x Oscar Winner,False,
+Martin Scorsese,Film Director,Master of Fine Arts,Film,New York University,1968,USA,38.0,,Oscar Winner,True,
+Quentin Tarantino,Film Director,High School Graduate,,Narbonne High School,1984,USA,,,2x Oscar Winner,False,
+Christopher Nolan,Film Director,Bachelor of Arts,English Literature,University College London,1993,UK,9.0,,Oscar Winner,True,
+Kathryn Bigelow,Film Director,Master of Fine Arts,Film,Columbia University,1979,USA,19.0,,First Woman Oscar Director,True,
+Spike Lee,Film Director,Master of Fine Arts,Film Production,New York University,1982,USA,38.0,,Honorary Oscar,True,
+Greta Gerwig,Film Director,Bachelor of Arts,English and Philosophy,Barnard College,2006,USA,,,Oscar Nominated Director,False,
+Jordan Peele,Film Director,Attended,Directing,Sarah Lawrence College,2001,USA,,,Oscar Winner,False,
+Denis Villeneuve,Film Director,Bachelor's Degree,Communications,Université du Québec à Montréal,1990,Canada,,,Oscar Nominated,False,
+Anderson Cooper,Journalist,Bachelor of Arts,Political Science,Yale University,1989,USA,11.0,,Peabody Award,True,
+Rachel Maddow,Journalist,Doctor of Philosophy,Politics,University of Oxford,2001,UK,4.0,,Rhodes Scholar,True,
+Christiane Amanpour,Journalist,Bachelor of Arts,Journalism,University of Rhode Island,1983,USA,,,Peabody Award,False,
+Bob Woodward,Journalist,Bachelor of Arts,History and English,Yale University,1965,USA,11.0,,Pulitzer Prize,True,
+Carl Bernstein,Journalist,Dropped Out,,University of Maryland,1961,USA,51.0,,Pulitzer Prize,False,
+Katie Couric,Journalist,Bachelor of Arts,American Studies,University of Virginia,1979,USA,25.0,,Edward R Murrow Award,True,
+Wolf Blitzer,Journalist,Master of Arts,International Relations,Johns Hopkins University,1972,USA,28.0,,Emmy Award,True,
+Lester Holt,Journalist,Attended,Government,California State University,1982,USA,,,Edward R Murrow Award,False,
+Norah O'Donnell,Journalist,Bachelor of Arts,Philosophy,Georgetown University,1995,USA,231.0,,Emmy Award,False,
+Jake Tapper,Journalist,Bachelor of Arts,History,Dartmouth College,1991,USA,11.0,,Emmy Award,True,
+Coco Chanel,Fashion Designer,Convent Education,Sewing,Aubazine Abbey,1901,France,,,Fashion Icon,False,
+Ralph Lauren,Fashion Designer,Attended,Business,Baruch College,1964,USA,,,CFDA Lifetime Achievement,False,
+Vera Wang,Fashion Designer,Bachelor of Arts,Art History,Sarah Lawrence College,1971,USA,,,CFDA Award,False,
+Tom Ford,Fashion Designer,Bachelor of Fine Arts,Architecture,Parsons School of Design,1986,USA,,,CFDA Award,False,
+Diane von Furstenberg,Fashion Designer,Bachelor's Degree,Economics,University of Geneva,1969,Switzerland,,,CFDA President,False,
+Marc Jacobs,Fashion Designer,Bachelor of Fine Arts,Fashion Design,Parsons School of Design,1984,USA,,,CFDA Award,False,
+Alexander McQueen,Fashion Designer,Master of Arts,Fashion,Central Saint Martins,1992,UK,,,British Designer of the Year,False,
+Miuccia Prada,Fashion Designer,Doctor of Philosophy,Political Science,University of Milan,1973,Italy,,,Fashion Legend,False,
+Christian Dior,Fashion Designer,Attended,Political Science,Sciences Po Paris,1928,France,,,Fashion Icon,False,
+Martin Luther King Jr,Civil Rights Leader,Doctor of Philosophy,Systematic Theology,Boston University,1955,USA,43.0,,Nobel Peace Prize 1964,True,
+Nelson Mandela,Political Leader,Bachelor of Laws,Law,University of South Africa,1989,South Africa,,,Nobel Peace Prize 1993,False,
+Mahatma Gandhi,Political Leader,Bachelor of Laws,Law,University College London,1891,UK,9.0,,Father of Indian Nation,True,
+Desmond Tutu,Religious Leader,Master of Theology,Theology,King's College London,1966,UK,35.0,,Nobel Peace Prize 1984,True,
+Rosa Parks,Civil Rights Activist,High School Diploma,,Alabama State Teachers College,1933,USA,,,Congressional Gold Medal,False,
+Greta Thunberg,Climate Activist,High School Student,,Ongoing Education,2023,Sweden,,,Time Person of the Year 2019,False,
+Wangari Maathai,Environmental Activist,Doctor of Philosophy,Veterinary Anatomy,University of Nairobi,1971,Kenya,,,Nobel Peace Prize 2004,False,
+Betty Friedan,Feminist,Bachelor of Arts,Psychology,Smith College,1942,USA,,,Feminist Pioneer,False,
+Gloria Steinem,Feminist,Bachelor of Arts,Government,Smith College,1956,USA,,,Presidential Medal of Freedom,False,
+Kofi Annan,Diplomat,Master of Science,Management,Massachusetts Institute of Technology,1972,USA,1.0,,Nobel Peace Prize 2001,True,
+Aung San Suu Kyi,Political Leader,Bachelor of Arts,Philosophy Politics Economics,University of Oxford,1967,UK,4.0,,Nobel Peace Prize 1991,True,
+Shirin Ebadi,Lawyer,Doctor of Jurisprudence,Law,University of Tehran,1969,Iran,,,Nobel Peace Prize 2003,False,
+Muhammad Yunus,Economist,Doctor of Philosophy,Economics,Vanderbilt University,1969,USA,18.0,,Nobel Peace Prize 2006,True,
+Paul Krugman,Economist,Doctor of Philosophy,Economics,Massachusetts Institute of Technology,1977,USA,1.0,,Nobel Prize in Economics 2008,True,
+Joseph Stiglitz,Economist,Doctor of Philosophy,Economics,Massachusetts Institute of Technology,1967,USA,1.0,,Nobel Prize in Economics 2001,True,
+Amartya Sen,Economist,Doctor of Philosophy,Economics,University of Cambridge,1959,UK,4.0,,Nobel Prize in Economics 1998,True,
+Thomas Piketty,Economist,Doctor of Philosophy,Economics,London School of Economics,1993,UK,45.0,,Capital in 21st Century Author,True,
+Janet Yellen,Economist,Doctor of Philosophy,Economics,Yale University,1971,USA,11.0,,First Female Treasury Secretary,True,
+Gordon Ramsay,Chef,Diploma,Hotel Management,North Oxon Technical College,1987,UK,,,16 Michelin Stars,False,
+Julia Child,Chef,Bachelor of Arts,History,Smith College,1934,USA,,,Presidential Medal of Freedom,False,
+Anthony Bourdain,Chef,Associate Degree,Culinary Arts,Culinary Institute of America,1978,USA,,,Emmy Award,False,
+Wolfgang Puck,Chef,Apprenticeship,Culinary Arts,Hotel de Paris,1973,France,,,James Beard Award,False,
+Thomas Keller,Chef,Self-Taught,Culinary Arts,Restaurant Training,,USA,,,3 Michelin Stars,False,
+Muhammad Ali,Athlete,High School Graduate,,Central High School,1960,USA,,,3x World Heavyweight Champion,False,
+Lionel Messi,Athlete,Youth Academy,Football,La Masia Barcelona,2004,Spain,,,8x Ballon d'Or,False,
+Cristiano Ronaldo,Athlete,Youth Academy,Football,Sporting CP Academy,2003,Portugal,,,5x Ballon d'Or,False,
+Billie Jean King,Athlete,Bachelor of Arts,History,Los Angeles State College,1964,USA,,,39 Grand Slam Titles,False,
+Xi Jinping,Political Leader,Doctor of Philosophy,Law,Tsinghua University,2002,China,25.0,,President of China,True,
+Vladimir Putin,Political Leader,Candidate of Sciences,Economics,Saint Petersburg State University,1997,Russia,242.0,,President of Russia,False,
+Narendra Modi,Political Leader,Master of Arts,Political Science,Gujarat University,1983,India,,,Prime Minister of India,False,
+Jacinda Ardern,Political Leader,Bachelor of Communication Studies,Public Relations and Political Science,University of Waikato,2001,New Zealand,,,Prime Minister of New Zealand,False,
+Volodymyr Zelensky,Political Leader,Law Degree,Law,Kyiv National Economic University,2000,Ukraine,,,President of Ukraine,False,
+Joko Widodo,Political Leader,Bachelor of Engineering,Forestry,Gadjah Mada University,1985,Indonesia,254.0,,President of Indonesia,False,
+Recep Tayyip Erdogan,Political Leader,Bachelor's Degree,Business Administration,Marmara University,1981,Turkey,,,President of Turkey,False,
+Boris Johnson,Political Leader,Bachelor of Arts,Classics,University of Oxford,1987,UK,4.0,,Prime Minister UK,True,
+Rishi Sunak,Political Leader,Master of Business Administration,Business,Stanford University,2006,USA,3.0,,Prime Minister UK,True,
+Benjamin Netanyahu,Political Leader,Master of Science,Business Management,Massachusetts Institute of Technology,1976,USA,1.0,,Prime Minister Israel,True,
+Tim Berners-Lee,Computer Scientist,Bachelor of Arts,Physics,University of Oxford,1976,UK,4.0,,Inventor of World Wide Web,True,
+Linus Torvalds,Software Engineer,Master of Science,Computer Science,University of Helsinki,1996,Finland,106.0,,Creator of Linux,False,
+Vint Cerf,Computer Scientist,Doctor of Philosophy,Computer Science,University of California Los Angeles,1972,USA,14.0,,Father of Internet,True,
+Bob Kahn,Computer Scientist,Doctor of Philosophy,Electrical Engineering,Princeton University,1964,USA,16.0,,Turing Award,True,
+Dennis Ritchie,Computer Scientist,Doctor of Philosophy,Mathematics,Harvard University,1968,USA,5.0,,Creator of C Language,True,
+Ken Thompson,Computer Scientist,Master of Science,Electrical Engineering,University of California Berkeley,1966,USA,10.0,,Creator of Unix,True,
+Guido van Rossum,Computer Scientist,Master of Science,Mathematics and Computer Science,University of Amsterdam,1982,Netherlands,53.0,,Creator of Python,False,
+Brendan Eich,Computer Scientist,Master of Science,Computer Science,University of Illinois,1986,USA,65.0,,Creator of JavaScript,False,
+James Gosling,Computer Scientist,Doctor of Philosophy,Computer Science,Carnegie Mellon University,1983,USA,52.0,,Creator of Java,False,
+Bjarne Stroustrup,Computer Scientist,Doctor of Philosophy,Computer Science,University of Cambridge,1979,UK,4.0,,Creator of C++,True,
+Frank Lloyd Wright,Architect,Attended,Civil Engineering,University of Wisconsin,1890,USA,,,AIA Gold Medal,False,
+Zaha Hadid,Architect,Bachelor of Architecture,Architecture,Architectural Association,1977,UK,,,Pritzker Prize 2004,False,
+I M Pei,Architect,Master of Architecture,Architecture,Harvard University,1946,USA,5.0,,Pritzker Prize 1983,True,
+Norman Foster,Architect,Master of Architecture,Architecture,Yale University,1962,USA,11.0,,Pritzker Prize 1999,True,
+Rem Koolhaas,Architect,Architecture Degree,Architecture,Architectural Association,1972,UK,,,Pritzker Prize 2000,False,
+Frank Gehry,Architect,Bachelor of Architecture,Architecture,University of Southern California,1954,USA,28.0,,Pritzker Prize 1989,True,
+Tadao Ando,Architect,Self-Taught,Architecture,Autodidact,,Japan,,,Pritzker Prize 1995,False,
+Renzo Piano,Architect,Architecture Degree,Architecture,Politecnico di Milano,1964,Italy,123.0,,Pritzker Prize 1998,False,
+Santiago Calatrava,Architect,Doctor of Technical Sciences,Civil Engineering,ETH Zurich,1981,Switzerland,8.0,,AIA Gold Medal,True,
+Jean Nouvel,Architect,Architecture Degree,Architecture,École des Beaux-Arts,1972,France,,,Pritzker Prize 2008,False,
+Sam Walton,Entrepreneur,Bachelor of Arts,Economics,University of Missouri,1940,USA,,,Walmart Founder,False,
+Walt Disney,Entrepreneur,High School Graduate,,McKinley High School,1917,USA,,,Disney Founder,False,
+Henry Ford,Industrialist,Apprenticeship,Engineering,Trade School,1891,USA,,,Ford Motor Founder,False,
+John D Rockefeller,Industrialist,Business School,Business,Folsom's Commercial College,1855,USA,,,Standard Oil Founder,False,
+Andrew Carnegie,Industrialist,Elementary Education,,Limited Formal Education,1848,USA,,,Carnegie Steel Founder,False,
+J P Morgan,Banker,Attended,Art History,University of Göttingen,1856,Germany,,,Banking Pioneer,False,
+Thomas Edison,Inventor,3 months formal schooling,,Home-Schooled,1859,USA,,,1093 US Patents,False,
+Nikola Tesla,Inventor,Engineering Studies,Electrical Engineering,Austrian Polytechnic,1878,Austria,,,AC Current Pioneer,False,
+Alexander Graham Bell,Inventor,Bachelor of Arts,Latin and Greek,University College London,1870,UK,9.0,,Telephone Inventor,True,
+Isaac Newton,Physicist,Master of Arts,Mathematics,University of Cambridge,1668,UK,4.0,,Scientific Revolution,True,
+Galileo Galilei,Astronomer,Medical Studies Incomplete,Medicine,University of Pisa,1585,Italy,,,Father of Modern Science,False,
+Charles Darwin,Naturalist,Bachelor of Arts,Theology,University of Cambridge,1831,UK,4.0,,Theory of Evolution,True,
+Louis Pasteur,Chemist,Doctor of Sciences,Chemistry,University of Paris,1847,France,,,Germ Theory Pioneer,False,
+Max Planck,Physicist,Doctor of Philosophy,Physics,University of Munich,1879,Germany,59.0,,Nobel Prize in Physics 1918,False,
+Niels Bohr,Physicist,Doctor of Philosophy,Physics,University of Copenhagen,1911,Denmark,84.0,,Nobel Prize in Physics 1922,False,
+Werner Heisenberg,Physicist,Doctor of Philosophy,Physics,University of Munich,1923,Germany,59.0,,Nobel Prize in Physics 1932,False,
+Erwin Schrödinger,Physicist,Doctor of Philosophy,Physics,University of Vienna,1910,Austria,134.0,,Nobel Prize in Physics 1933,False,
+Enrico Fermi,Physicist,Doctor of Philosophy,Physics,University of Pisa,1922,Italy,,,Nobel Prize in Physics 1938,False,
+J Robert Oppenheimer,Physicist,Doctor of Philosophy,Physics,University of Göttingen,1927,Germany,,,Manhattan Project Leader,False,
+William Shakespeare,Playwright,Grammar School,Latin and Classics,King's New School,1579,England,,,Greatest Writer,False,
+Jane Austen,Author,Home Education,Literature,Private Tutoring,,England,,,Literary Icon,False,
+Charles Dickens,Author,Limited Formal Education,,Wellington House Academy,1827,England,,,Victorian Era Master,False,
+Mark Twain,Author,5th Grade Education,,Apprenticeship,1847,USA,,,American Literary Icon,False,
+Leo Tolstoy,Author,Attended,Law and Oriental Languages,University of Kazan,1844,Russia,,,War and Peace Author,False,
+Fyodor Dostoevsky,Author,Military Engineering,Engineering,Military Engineering Institute,1843,Russia,,,Crime and Punishment Author,False,
+Gabriel García Márquez,Author,Law Studies Incomplete,Law,National University of Colombia,1947,Colombia,,,Nobel Prize in Literature 1982,False,
+Isabel Allende,Author,Private Education,,Private Schools,1959,Chile,,,Presidential Medal of Freedom,False,
+Paulo Coelho,Author,Law School Dropout,Law,Law School,1966,Brazil,,,The Alchemist Author,False,
+Salman Rushdie,Author,Master of Arts,History,King's College Cambridge,1968,UK,4.0,,Booker Prize,True,
+Meryl Streep,Actress,Master of Fine Arts,Drama,Yale School of Drama,1975,USA,11.0,,3x Oscar Winner,True,
+Tom Hanks,Actor,Attended,Theater,California State University,1977,USA,,,2x Oscar Winner,False,
+Denzel Washington,Actor,Bachelor of Arts,Drama and Journalism,Fordham University,1977,USA,,,2x Oscar Winner,False,
+Viola Davis,Actress,Master of Fine Arts,Acting,Juilliard School,1993,USA,,,EGOT Winner,False,
+Cate Blanchett,Actress,Bachelor of Fine Arts,Fine Arts,National Institute of Dramatic Art,1992,Australia,,,2x Oscar Winner,False,
+Daniel Day-Lewis,Actor,Drama Training,Acting,Bristol Old Vic Theatre School,1979,UK,,,3x Oscar Winner,False,
+Frances McDormand,Actress,Master of Fine Arts,Acting,Yale School of Drama,1982,USA,11.0,,3x Oscar Winner,True,
+Anthony Hopkins,Actor,Diploma,Acting,Royal Academy of Dramatic Art,1963,UK,,,2x Oscar Winner,False,
+Judi Dench,Actress,Drama Training,Acting,Central School of Speech and Drama,1957,UK,,,Oscar Winner,False,
+Helen Mirren,Actress,Attended,Teaching,New College of Speech and Drama,1965,UK,,,Oscar Winner,False,
+Jerry Seinfeld,Comedian,Bachelor of Arts,Communications and Theater,Queens College,1976,USA,,,Emmy Winner,False,
+Ellen DeGeneres,Comedian,Attended,Communication Studies,University of New Orleans,1976,USA,,,Emmy Winner,False,
+Steve Martin,Comedian,Bachelor of Arts,Theater,California State University Long Beach,1967,USA,,,Grammy Winner,False,
+Tina Fey,Comedian,Bachelor of Arts,Drama,University of Virginia,1992,USA,25.0,,Emmy Winner,True,
+Amy Poehler,Comedian,Bachelor of Arts,Media and Communications,Boston College,1993,USA,,,Emmy Winner,False,
+Stephen Colbert,Comedian,Bachelor of Arts,Philosophy,Northwestern University,1986,USA,27.0,,Emmy Winner,True,
+Jimmy Fallon,Comedian,Bachelor of Arts,Communications,College of Saint Rose,1995,USA,,,Emmy Winner,False,
+John Oliver,Comedian,Bachelor of Arts,English,University of Cambridge,1995,UK,4.0,,Emmy Winner,True,
+Conan O'Brien,Comedian,Bachelor of Arts,History and Literature,Harvard University,1985,USA,5.0,,Emmy Winner,True,
+Elizabeth Blackwell,Physician,Doctor of Medicine,Medicine,Geneva Medical College,1849,USA,,,First Woman MD in USA,False,
+Florence Nightingale,Nurse,Nursing Training,Nursing,Institute of Protestant Deaconesses,1851,Germany,,,Founder of Modern Nursing,False,
+Paul Farmer,Physician,Doctor of Medicine and PhD,Medicine and Anthropology,Harvard University,1990,USA,5.0,,Partners in Health Founder,True,
+Atul Gawande,Surgeon,Doctor of Medicine,Medicine,Harvard Medical School,1995,USA,5.0,,MacArthur Fellow,True,
+Sanjay Gupta,Neurosurgeon,Doctor of Medicine,Medicine,University of Michigan,1993,USA,24.0,,Emmy Winner,True,
+Ben Carson,Neurosurgeon,Doctor of Medicine,Medicine,University of Michigan,1977,USA,24.0,,Presidential Medal of Freedom,True,
+Oliver Sacks,Neurologist,Doctor of Medicine,Medicine,University of Oxford,1960,UK,4.0,,Author and Physician,True,
+Anthony Fauci,Immunologist,Doctor of Medicine,Medicine,Cornell University,1966,USA,21.0,,Presidential Medal of Freedom,True,
+Francis Collins,Geneticist,Doctor of Medicine and PhD,Medicine and Physical Chemistry,University of North Carolina,1977,USA,29.0,,Human Genome Project Leader,True,
+Robert Gallo,Virologist,Doctor of Medicine,Medicine,Jefferson Medical College,1963,USA,,,HIV Co-Discoverer,False,
+Sara Blakely,Entrepreneur,Bachelor of Arts,Communications,Florida State University,1993,USA,,,Spanx Founder,False,
+Arianna Huffington,Entrepreneur,Master of Arts,Economics,University of Cambridge,1972,UK,4.0,,HuffPost Founder,True,
+Martha Stewart,Entrepreneur,Bachelor of Arts,Art History and Architectural History,Barnard College,1963,USA,,,Lifestyle Mogul,False,
+Meg Whitman,Tech Executive,Master of Business Administration,Business,Harvard Business School,1979,USA,2.0,,eBay Former CEO,True,
+Jack Dorsey,Tech Entrepreneur,Dropped Out,Computer Science,Missouri University of Science,1997,USA,,,Twitter Founder,False,
+Stewart Butterfield,Tech Entrepreneur,Master of Arts,Philosophy,University of Cambridge,1998,UK,4.0,,Slack Founder,True,
+Venus Williams,Athlete,Bachelor of Science,Business Administration,Indiana University East,2015,USA,,,7x Grand Slam Champion,False,
+Shaquille O'Neal,Athlete,Doctorate in Education,Education,Barry University,2012,USA,,,4x NBA Champion,False,
+Stephen Curry,Athlete,Bachelor of Arts,Sociology,Davidson College,2022,USA,,,4x NBA Champion,False,
+Russell Wilson,Athlete,Bachelor of Arts,Communications,North Carolina State University,2010,USA,,3.7,Super Bowl Champion,False,High
+Andrew Luck,Athlete,Bachelor of Science,Architectural Design,Stanford University,2012,USA,3.0,3.5,NFL MVP,True,High
+Jeremy Lin,Athlete,Bachelor of Arts,Economics,Harvard University,2010,USA,5.0,3.1,Linsanity,True,Medium
+Kareem Abdul-Jabbar,Athlete,Bachelor of Arts,History,University of California Los Angeles,1969,USA,14.0,,6x NBA Champion,True,
+Magic Johnson,Athlete,Bachelor of Arts,Communications,Michigan State University,1979,USA,,,5x NBA Champion,False,
+David Robinson,Athlete,Bachelor of Science,Mathematics,United States Naval Academy,1987,USA,,,2x NBA Champion,False,
+Tim Duncan,Athlete,Bachelor of Arts,Psychology,Wake Forest University,1997,USA,,,5x NBA Champion,False,
+Ruth Bader Ginsburg,Supreme Court Justice,Bachelor of Arts,Government,Cornell University,1954,USA,21.0,,Supreme Court Justice,True,
+Sonia Sotomayor,Supreme Court Justice,Juris Doctor,Law,Yale Law School,1979,USA,11.0,,Supreme Court Justice,True,
+Elena Kagan,Supreme Court Justice,Juris Doctor,Law,Harvard Law School,1986,USA,5.0,,Supreme Court Justice,True,
+Thurgood Marshall,Supreme Court Justice,Bachelor of Arts,Pre-Law,Lincoln University,1930,USA,,,First Black Justice,False,
+Sandra Day O'Connor,Supreme Court Justice,Bachelor of Arts,Economics,Stanford University,1950,USA,3.0,,First Female Justice,True,
+Clarence Thomas,Supreme Court Justice,Juris Doctor,Law,Yale Law School,1974,USA,11.0,,Supreme Court Justice,True,
+John Roberts,Chief Justice,Juris Doctor,Law,Harvard Law School,1979,USA,5.0,,Chief Justice USA,True,
+Amy Coney Barrett,Supreme Court Justice,Juris Doctor,Law,University of Notre Dame,1997,USA,227.0,,Supreme Court Justice,False,
+Brett Kavanaugh,Supreme Court Justice,Juris Doctor,Law,Yale Law School,1990,USA,11.0,,Supreme Court Justice,True,
+Neil Gorsuch,Supreme Court Justice,Juris Doctor,Law,Harvard Law School,1991,USA,5.0,,Supreme Court Justice,True,
+Noam Chomsky,Linguist,Doctor of Philosophy,Linguistics,University of Pennsylvania,1955,USA,13.0,,Father of Modern Linguistics,True,
+Michel Foucault,Philosopher,Agrégation,Philosophy,École Normale Supérieure,1951,France,,,Postmodern Philosopher,False,
+Judith Butler,Philosopher,Doctor of Philosophy,Philosophy,Yale University,1984,USA,11.0,,Gender Theory Pioneer,True,
+Cornel West,Philosopher,Doctor of Philosophy,Philosophy,Princeton University,1980,USA,16.0,,Public Intellectual,True,
+Martha Nussbaum,Philosopher,Doctor of Philosophy,Philosophy,Harvard University,1975,USA,5.0,,Capabilities Approach,True,
+Sigmund Freud,Psychologist,Doctor of Medicine,Medicine,University of Vienna,1881,Austria,134.0,,Father of Psychoanalysis,False,
+Carl Jung,Psychologist,Doctor of Medicine,Medicine,University of Basel,1902,Switzerland,,,Analytical Psychology Founder,False,
+B F Skinner,Psychologist,Doctor of Philosophy,Psychology,Harvard University,1931,USA,5.0,,Behaviorism Pioneer,True,
+Jean Piaget,Psychologist,Doctor of Philosophy,Natural Sciences,University of Neuchâtel,1918,Switzerland,,,Developmental Psychology,False,
+Erik Erikson,Psychologist,No Formal Degree,Psychoanalysis,Vienna Psychoanalytic Institute,1933,Austria,,,Identity Crisis Theory,False,
+Carol Dweck,Psychologist,Doctor of Philosophy,Psychology,Yale University,1972,USA,11.0,,Growth Mindset Theory,True,
+Daniel Kahneman,Psychologist,Doctor of Philosophy,Psychology,University of California Berkeley,1961,USA,10.0,,Nobel Prize in Economics 2002,True,
+Angela Duckworth,Psychologist,Doctor of Philosophy,Psychology,University of Pennsylvania,2006,USA,13.0,,Grit Theory Author,True,
+Martin Seligman,Psychologist,Doctor of Philosophy,Psychology,University of Pennsylvania,1967,USA,13.0,,Positive Psychology Founder,True,
+Steven Pinker,Psychologist,Doctor of Philosophy,Experimental Psychology,Harvard University,1979,USA,5.0,,Language Instinct Author,True,
+Alicia Keys,Musician,Attended,Professional Performance Arts,Columbia University,1998,USA,19.0,,15x Grammy Winner,True,
+Rashida Jones,Actress,Bachelor of Arts,Comparative Religion,Harvard University,1997,USA,5.0,,Emmy Nominee,True,
+Brooke Shields,Actress,Bachelor of Arts,French Literature,Princeton University,1987,USA,16.0,,Golden Globe Nominee,True,
+Lupita Nyong'o,Actress,Master of Fine Arts,Acting,Yale School of Drama,2012,USA,11.0,,Oscar Winner,True,
+James Franco,Actor,Master of Fine Arts,Multiple Disciplines,Various Universities,2010,USA,,,Golden Globe Winner,False,
+Jodie Foster,Actress,Bachelor of Arts,Literature,Yale University,1985,USA,11.0,,2x Oscar Winner,True,
+David Duchovny,Actor,Master of Arts,English Literature,Yale University,1986,USA,11.0,,Golden Globe Winner,True,
+Ashley Judd,Actress,Master of Public Administration,Public Administration,Harvard Kennedy School,2010,USA,5.0,,Emmy Nominee,True,
+Evan Williams,Tech Entrepreneur,Attended,Computer Science,University of Nebraska,1993,USA,,,Twitter Co-founder,False,
+Biz Stone,Tech Entrepreneur,Bachelor of Arts,Fine Arts,Northeastern University,1999,USA,,,Twitter Co-founder,False,
+Jan Koum,Tech Entrepreneur,Dropped Out,Computer Science and Mathematics,San Jose State University,1997,USA,,,WhatsApp Co-founder,False,
+Brian Acton,Tech Entrepreneur,Bachelor of Science,Computer Science,Stanford University,1994,USA,3.0,,WhatsApp Co-founder,True,
+Jan Ullrich,Tech Entrepreneur,Bachelor of Science,Computer Science,University of Michigan,1991,USA,24.0,,Box CEO,True,
+Chad Hurley,Tech Entrepreneur,Bachelor of Fine Arts,Fine Arts,Indiana University of Pennsylvania,1999,USA,,,YouTube Co-founder,False,
+Steve Chen,Tech Entrepreneur,Bachelor of Science,Computer Science,University of Illinois,2002,USA,65.0,,YouTube Co-founder,False,
+Jawed Karim,Tech Entrepreneur,Bachelor of Science,Computer Science,University of Illinois,2004,USA,65.0,,YouTube Co-founder,False,
+Max Levchin,Tech Entrepreneur,Bachelor of Science,Computer Science,University of Illinois,1997,USA,65.0,,PayPal Co-founder,False,
+Luke Nosek,Tech Entrepreneur,Bachelor of Science,Computer Science,University of Illinois,1996,USA,65.0,,PayPal Co-founder,False,
+Madeleine Albright,Diplomat,Doctor of Philosophy,Public Law and Government,Columbia University,1976,USA,19.0,,First Female Secretary of State,True,
+Condoleezza Rice,Diplomat,Doctor of Philosophy,Political Science,University of Denver,1981,USA,,,Secretary of State,False,
+Henry Kissinger,Diplomat,Doctor of Philosophy,Government,Harvard University,1954,USA,5.0,,Nobel Peace Prize 1973,True,
+Colin Powell,Military Leader,Master of Business Administration,Business,George Washington University,1971,USA,,,Secretary of State,False,
+John McCain,Politician,Bachelor of Science,Naval Sciences,United States Naval Academy,1958,USA,,,POW and Senator,False,
+Elizabeth Warren,Politician,Juris Doctor,Law,Rutgers Law School,1976,USA,,,US Senator,False,
+Bernie Sanders,Politician,Bachelor of Arts,Political Science,University of Chicago,1964,USA,10.0,,US Senator,True,
+Alexandria Ocasio-Cortez,Politician,Bachelor of Arts,Economics and International Relations,Boston University,2011,USA,43.0,,US Representative,True,
+Pete Buttigieg,Politician,Bachelor of Arts,History and Literature,Harvard University,2004,USA,5.0,,Rhodes Scholar,True,
+Tulsi Gabbard,Politician,Bachelor of Science,Business Administration,Hawaii Pacific University,2009,USA,,3.8,US Representative,False,High
+Tu Youyou,Pharmaceutical Chemist,Bachelor's Degree,Pharmacy,Beijing Medical College,1955,China,,,Nobel Prize in Medicine 2015,False,
+Yoshinori Ohsumi,Cell Biologist,Doctor of Science,Biology,University of Tokyo,1974,Japan,26.0,,Nobel Prize in Medicine 2016,True,
+Katalin Karikó,Biochemist,Doctor of Philosophy,Biochemistry,University of Szeged,1982,Hungary,,,mRNA Vaccine Pioneer,False,
+Drew Weissman,Immunologist,Doctor of Medicine and PhD,Medicine and Immunology,Boston University,1987,USA,43.0,,Nobel Prize in Medicine 2023,True,
+Robert Langer,Chemical Engineer,Doctor of Philosophy,Chemical Engineering,Massachusetts Institute of Technology,1974,USA,1.0,,Most Cited Engineer,True,
+George Church,Geneticist,Doctor of Philosophy,Biochemistry,Harvard University,1984,USA,5.0,,CRISPR Pioneer,True,
+Feng Zhang,Neuroscientist,Doctor of Philosophy,Chemistry,Stanford University,2009,USA,3.0,,CRISPR Pioneer,True,
+David Liu,Chemist,Doctor of Philosophy,Chemistry,University of California Berkeley,1999,USA,10.0,,Base Editing Pioneer,True,
+Demis Hassabis,AI Researcher,Doctor of Philosophy,Cognitive Neuroscience,University College London,2009,UK,9.0,,DeepMind Founder,True,
+Geoffrey Hinton,Computer Scientist,Doctor of Philosophy,Artificial Intelligence,University of Edinburgh,1978,UK,,,Godfather of AI,False,
+Yann LeCun,Computer Scientist,Doctor of Philosophy,Computer Science,Pierre and Marie Curie University,1987,France,,,Deep Learning Pioneer,False,
+Yoshua Bengio,Computer Scientist,Doctor of Philosophy,Computer Science,McGill University,1991,Canada,31.0,,Turing Award 2018,True,
+Andrew Ng,Computer Scientist,Doctor of Philosophy,Computer Science,University of California Berkeley,2002,USA,10.0,,AI Education Pioneer,True,
+Fei-Fei Li,Computer Scientist,Doctor of Philosophy,Electrical Engineering,California Institute of Technology,2005,USA,7.0,,ImageNet Creator,True,
+Daphne Koller,Computer Scientist,Doctor of Philosophy,Computer Science,Stanford University,1993,USA,3.0,,Coursera Co-founder,True,
+Barbara Walters,Journalist,Bachelor of Arts,English,Sarah Lawrence College,1951,USA,,,Emmy Winner,False,
+Dan Rather,Journalist,Bachelor of Arts,Journalism,Sam Houston State University,1953,USA,,,Peabody Award,False,
+Tom Brokaw,Journalist,Bachelor of Arts,Political Science,University of South Dakota,1964,USA,,,Emmy Winner,False,
+Diane Sawyer,Journalist,Bachelor of Arts,English,Wellesley College,1967,USA,,,Emmy Winner,False,
+Peter Jennings,Journalist,High School Graduate,,Trinity College School,1959,Canada,,,Emmy Winner,False,
+Nate Silver,Statistician,Bachelor of Arts,Economics,University of Chicago,2000,USA,10.0,,FiveThirtyEight Founder,True,
+Yuval Noah Harari,Historian,Doctor of Philosophy,History,University of Oxford,2002,UK,4.0,,Sapiens Author,True,
+Jared Diamond,Geographer,Doctor of Philosophy,Physiology,University of Cambridge,1961,UK,4.0,,Pulitzer Prize Winner,True,
+Doris Kearns Goodwin,Historian,Doctor of Philosophy,Government,Harvard University,1968,USA,5.0,,Pulitzer Prize Winner,True,
+David Attenborough,Broadcaster,Bachelor of Arts,Natural Sciences,University of Cambridge,1947,UK,4.0,,Nature Documentary Icon,True,
+Brian Cox,Physicist,Doctor of Philosophy,Particle Physics,University of Manchester,1998,UK,27.0,,Science Communicator,True,
+Neil Tyson,Astrophysicist,Doctor of Philosophy,Astrophysics,Columbia University,1991,USA,19.0,,Science Communicator,True,
+Brian Greene,Physicist,Doctor of Philosophy,Physics,University of Oxford,1987,UK,4.0,,String Theory Expert,True,
+Lisa Randall,Physicist,Doctor of Philosophy,Physics,Harvard University,1987,USA,5.0,,Theoretical Physics,True,
+Michio Kaku,Physicist,Doctor of Philosophy,Physics,University of California Berkeley,1972,USA,10.0,,Futurist Author,True,
+Lawrence Krauss,Physicist,Doctor of Philosophy,Physics,Massachusetts Institute of Technology,1982,USA,1.0,,Cosmologist,True,
+Kip Thorne,Physicist,Doctor of Philosophy,Physics,Princeton University,1965,USA,16.0,,Nobel Prize in Physics 2017,True,
+Roger Penrose,Mathematician,Doctor of Philosophy,Mathematics,University of Cambridge,1958,UK,4.0,,Nobel Prize in Physics 2020,True,
+Andrea Ghez,Astronomer,Doctor of Philosophy,Physics,California Institute of Technology,1992,USA,7.0,,Nobel Prize in Physics 2020,True,
+Reinhard Genzel,Astrophysicist,Doctor of Philosophy,Physics,University of Bonn,1978,Germany,,,Nobel Prize in Physics 2020,False,
+Donna Strickland,Physicist,Doctor of Philosophy,Physics,University of Rochester,1989,USA,,,Nobel Prize in Physics 2018,False,
+Rainer Weiss,Physicist,Doctor of Philosophy,Physics,Massachusetts Institute of Technology,1962,USA,1.0,,Nobel Prize in Physics 2017,True,
+Barry Barish,Physicist,Doctor of Philosophy,Physics,University of California Berkeley,1962,USA,10.0,,Nobel Prize in Physics 2017,True,
+Adam Riess,Astrophysicist,Doctor of Philosophy,Astrophysics,Harvard University,1996,USA,5.0,,Nobel Prize in Physics 2011,True,
+Saul Perlmutter,Astrophysicist,Doctor of Philosophy,Physics,University of California Berkeley,1986,USA,10.0,,Nobel Prize in Physics 2011,True,
+Brian Schmidt,Astrophysicist,Doctor of Philosophy,Astronomy,Harvard University,1993,USA,5.0,,Nobel Prize in Physics 2011,True,
+Takaaki Kajita,Physicist,Doctor of Science,Physics,University of Tokyo,1986,Japan,26.0,,Nobel Prize in Physics 2015,True,
+Arthur McDonald,Physicist,Doctor of Philosophy,Physics,California Institute of Technology,1969,USA,7.0,,Nobel Prize in Physics 2015,True,
+François Englert,Physicist,Doctor of Philosophy,Physics,Université Libre de Bruxelles,1959,Belgium,,,Nobel Prize in Physics 2013,False,
+Peter Higgs,Physicist,Doctor of Philosophy,Physics,King's College London,1954,UK,35.0,,Nobel Prize in Physics 2013,True,
+Serge Haroche,Physicist,Doctor of Philosophy,Physics,Université Paris VI,1971,France,,,Nobel Prize in Physics 2012,False,
+David Wineland,Physicist,Doctor of Philosophy,Physics,Harvard University,1970,USA,5.0,,Nobel Prize in Physics 2012,True,
+Andre Geim,Physicist,Doctor of Philosophy,Physics,Institute for Solid State Physics,1987,Russia,,,Nobel Prize in Physics 2010,False,
+Konstantin Novoselov,Physicist,Doctor of Philosophy,Physics,Radboud University,2004,Netherlands,,,Nobel Prize in Physics 2010,False,
+Charles Kao,Physicist,Doctor of Philosophy,Electrical Engineering,Imperial College London,1965,UK,73.0,,Nobel Prize in Physics 2009,False,
+Willard Boyle,Physicist,Doctor of Philosophy,Physics,McGill University,1950,Canada,31.0,,Nobel Prize in Physics 2009,True,
+George Smith,Physicist,Doctor of Philosophy,Physics,University of Chicago,1959,USA,10.0,,Nobel Prize in Physics 2009,True,
+Yoichiro Nambu,Physicist,Doctor of Science,Physics,University of Tokyo,1952,Japan,26.0,,Nobel Prize in Physics 2008,True,
+Makoto Kobayashi,Physicist,Doctor of Science,Physics,Nagoya University,1972,Japan,,,Nobel Prize in Physics 2008,False,
+Toshihide Maskawa,Physicist,Doctor of Science,Physics,Nagoya University,1967,Japan,,,Nobel Prize in Physics 2008,False,
+Albert Fert,Physicist,Doctor of Philosophy,Physics,Université Paris-Sud,1970,France,,,Nobel Prize in Physics 2007,False,
+Peter Grünberg,Physicist,Doctor of Philosophy,Physics,Technische Universität Darmstadt,1969,Germany,,,Nobel Prize in Physics 2007,False,
+John Mather,Astrophysicist,Doctor of Philosophy,Physics,University of California Berkeley,1974,USA,10.0,,Nobel Prize in Physics 2006,True,
+George Smoot,Astrophysicist,Doctor of Philosophy,Physics,Massachusetts Institute of Technology,1970,USA,1.0,,Nobel Prize in Physics 2006,True,
+Roy Glauber,Physicist,Doctor of Philosophy,Physics,Harvard University,1949,USA,5.0,,Nobel Prize in Physics 2005,True,
+John Hall,Physicist,Doctor of Philosophy,Physics,Carnegie Institute of Technology,1961,USA,,,Nobel Prize in Physics 2005,False,
+Theodor Hänsch,Physicist,Doctor of Philosophy,Physics,Heidelberg University,1969,Germany,,,Nobel Prize in Physics 2005,False,
+David Gross,Physicist,Doctor of Philosophy,Physics,University of California Berkeley,1966,USA,10.0,,Nobel Prize in Physics 2004,True,
+Ratan Tata,Business Leader,Bachelor of Science,Architecture,Cornell University,1962,USA,21.0,,Tata Group Chairman,True,
+N R Narayana Murthy,Tech Entrepreneur,Master of Technology,Electrical Engineering,Indian Institute of Technology Kanpur,1969,India,,,Infosys Founder,False,
+Azim Premji,Business Leader,Bachelor of Engineering,Electrical Engineering,Stanford University,1966,USA,3.0,,Wipro Chairman,True,
+Kiran Mazumdar-Shaw,Entrepreneur,Master of Science,Malting and Brewing,Ballarat University,1975,Australia,,,Biocon Founder,False,
+Jack Welch,Business Executive,Doctor of Philosophy,Chemical Engineering,University of Illinois,1960,USA,65.0,,GE CEO,False,
+Anne Hathaway,Actress,Attended,English,Vassar College,2004,USA,,,Oscar Winner,False,
+Matt Damon,Actor,Attended,English,Harvard University,1992,USA,5.0,,Oscar Winner,True,
+Conan Gray,Musician,Bachelor of Arts,Media Studies,University of California Los Angeles,2019,USA,14.0,,Music Artist,True,
+John Williams,Composer,Music Studies,Music Composition,Juilliard School,1955,USA,,,5x Oscar Winner,False,
+Hans Zimmer,Composer,Self-Taught,Music,Music Training,,Germany,,,2x Oscar Winner,False,
+Quincy Jones,Music Producer,Music Studies,Music,Berklee College of Music,1951,USA,,,28x Grammy Winner,False,
+David Bowie,Musician,Art School,Commercial Art,Bromley Technical High School,1963,UK,,,Music Icon,False,
+Prince,Musician,High School Graduate,,Central High School,1976,USA,,,7x Grammy Winner,False,
+Freddie Mercury,Musician,Diploma,Art and Graphic Design,Ealing Art College,1969,UK,,,Queen Frontman,False,
+Bruce Springsteen,Musician,Attended,,Ocean County College,1967,USA,,,20x Grammy Winner,False,
+Bob Dylan,Musician,Attended,Music,University of Minnesota,1960,USA,,,Nobel Prize in Literature 2016,False,
+Aretha Franklin,Musician,Honorary Doctorate,Music,Multiple Universities,,USA,,,18x Grammy Winner,False,
+Elton John,Musician,Music Studies,Music,Royal Academy of Music,1964,UK,,,5x Grammy Winner,False,
+Billie Eilish,Musician,Home-Schooled,,Home Education,2018,USA,,,9x Grammy Winner,False,
+Ed Sheeran,Musician,Dropped Out,Music,Academy of Contemporary Music,2009,UK,,,4x Grammy Winner,False,
+Adele,Musician,Diploma,Performing Arts,BRIT School,2006,UK,,,16x Grammy Winner,False,
+Sam Smith,Musician,Youth Music Theatre,Performing Arts,Youth Music Theatre UK,2007,UK,,,4x Grammy Winner,False,
+Dua Lipa,Musician,Theatre School,Performing Arts,Sylvia Young Theatre School,2013,UK,,,6x Grammy Winner,False,
